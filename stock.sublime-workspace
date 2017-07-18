@@ -1,0 +1,577 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sto",
+				"stockmanagement"
+			],
+			[
+				"up",
+				"updateEntryId"
+			],
+			[
+				"en",
+				"entryId"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"stock",
+				"stockTracking"
+			],
+			[
+				"_",
+				"_2c8c"
+			],
+			[
+				"box",
+				"boxName"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"cl",
+				"cl64"
+			],
+			[
+				"form",
+				"formEmail"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"query",
+				"query2"
+			],
+			[
+				"pava",
+				"pavadinimas"
+			],
+			[
+				"qu",
+				"query2"
+			],
+			[
+				"resul",
+				"result2"
+			],
+			[
+				"pavadini",
+				"pavadinimas1"
+			],
+			[
+				"pavadi",
+				"pavadinimas1"
+			],
+			[
+				"prin",
+				"printPavadinimas"
+			],
+			[
+				"dezes",
+				"dezesDezesId"
+			],
+			[
+				"jobAir",
+				"jobAirportOfArrival"
+			],
+			[
+				"jobAirpo",
+				"jobAirportOfDeparture"
+			],
+			[
+				"jobB",
+				"jobBoxType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "edit.php",
+			"settings":
+			{
+				"buffer_size": 3672,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stockmanagement.php",
+			"settings":
+			{
+				"buffer_size": 1790,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 637.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/stock",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/stock/cgi-bin"
+	],
+	"file_history":
+	[
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/stock/includes/functions.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/stock/stockmanagement.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/stock/edit.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/edit.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/stock/includes/back.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/formdisplay.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/stock/index.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/stock/includes/connection.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/stock/logout.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/stock/includes/header.php",
+		"/C/Users/DotOnI/Desktop/stock.sublime-project",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/Includes/connection.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/Includes/functions.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/index.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/info.php",
+		"/C/Program Files (x86)/Ampps/php/php.ini",
+		"/C/Users/DotOnI/Desktop/grafikas.sublime-workspace",
+		"/C/Users/DotOnI/Desktop/grafikas.sublime-project",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/connection.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/drop.php",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/edit.php",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/formdisplay.php",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/add.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/header.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/Includes/header.php",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/drop.php",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/formdisplay 2.php",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/form.php",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/formDisplay.php",
+		"/C/Users/DotOnI/AppData/Local/Temp/fz3temp-2/Connection.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/formDisplay.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/Includes/Connection.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/add.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/form.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/Grafikas/logout.php",
+		"/D/Programavimas/Mokymuisi/MySql adresu knyga/AdresuKnyga/add.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Mokymuisi/MYSQLadresuknyga/add.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Mokymuisi/MYSQLadresuknyga/logout.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Mokymuisi/MYSQLadresuknyga/klientai.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Mokymuisi/MYSQLadresuknyga/Edit.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Mokymuisi/MYSQLadresuknyga/index.php",
+		"/D/MySql adresu knyga/AdresuKnyga/klientai.php",
+		"/D/MySql adresu knyga/AdresuKnyga/Edit.php",
+		"/D/MySql adresu knyga/AdresuKnyga/add.php",
+		"/D/MySql adresu knyga/index.php",
+		"/D/MySql adresu knyga/logout.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/woodcraft.lt/index.html",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/woodcraft.lt/index2.html",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/vienas.netai.net/index.php",
+		"/C/Users/DotOnI/Documents/Programavimas/Tinklapiai/vienas.netai.net/antras.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id",
+			"xdebug",
+			"Zend",
+			"xdebug",
+			"edit",
+			"\");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "edit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3672,
+								3672
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1953.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "stockmanagement.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1431,
+								1431
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1530,
+										1531
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										691,
+										692
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "stock.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
